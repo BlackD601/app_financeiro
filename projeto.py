@@ -3,7 +3,7 @@ import pandas as pd
 import appdirs as ad
 ad.user_cache_dir = lambda *args: "/tmp"
 import yfinance as yf
-import investpy as inv
+#import investpy as inv
 import seaborn as sns
 import matplotlib.pyplot as plt
 from datetime import date
