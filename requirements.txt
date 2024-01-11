@@ -1,3 +1,4 @@
+appdirs
 streamlit
 pandas
 yfinance
@@ -5,4 +6,3 @@ matplotlib.pyplot
 seaborn
 plotly
 fundamentus
-appdirs
