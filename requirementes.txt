@@ -1,9 +1,7 @@
 streamlit
 pandas
-numpy
 yfinance
-investpy
-matplotlib
+matplotlib.pyplot
 seaborn
 plotly
 fundamentus
